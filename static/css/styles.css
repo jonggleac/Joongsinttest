@@ -3973,6 +3973,7 @@ fieldset:disabled .btn {
   align-items: center;
   position: fixed;
   display: flex; */
+  font-family: 'Russo One', sans-serif;
   position: fixed;
   top: 0;
   left: 0;
